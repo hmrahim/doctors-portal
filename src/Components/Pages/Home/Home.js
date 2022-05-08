@@ -1,4 +1,5 @@
 import React from 'react';
+import Appointment from '../Appointment/Appointment';
 import Banner from '../Banner/Banner';
 import Exception from '../Exception/Exception';
 import Lending from '../Lending/Lending';
@@ -12,6 +13,7 @@ const Home = () => {
             <Lending></Lending>
             <Services></Services>
             <Exception></Exception>
+            <Appointment></Appointment>
             <Testimonial></Testimonial>
             
         </div>

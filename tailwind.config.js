@@ -10,7 +10,8 @@ module.exports = {
       primaryBlack:"#3A4256",
       bg1:"#0FCFEC",
       bg2:"#0FCFEC",
-      transpBg: "rgba(255, 255, 255, 0.877)"
+      transpBg: "rgba(255, 255, 255, 0.877)",
+      blcktranp:"#3a4256cb"
     }
     
   },
