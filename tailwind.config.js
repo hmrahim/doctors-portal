@@ -11,7 +11,8 @@ module.exports = {
       bg1:"#0FCFEC",
       bg2:"#0FCFEC",
       transpBg: "rgba(255, 255, 255, 0.877)",
-      blcktranp:"#3a4256cb"
+      blcktranp:"#3a4256cb",
+      footerBg:'rgba(255, 255, 255, 0.747)'
     }
     
   },

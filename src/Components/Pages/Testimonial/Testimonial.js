@@ -12,7 +12,7 @@ const Testimonial = () => {
             layout. The point of using Lorem a more-or-less normal distribu to
             using Content here, content
           </p>
-          <div className="flex gap-5 items-center mt-2 py-4 ">
+          <div className="flex gap-5 items-center mt-5 py-4 ">
             <img
               className="w-16 h-16 border-2 border-bg1 rounded-full"
               src="https://i.ibb.co/6XDktqf/people-1.png"
@@ -30,7 +30,7 @@ const Testimonial = () => {
             layout. The point of using Lorem a more-or-less normal distribu to
             using Content here, content
           </p>
-          <div className="flex gap-5 items-center mt-2 py-4 ">
+          <div className="flex gap-5 items-center mt-5 py-4 ">
             <img
               className="w-16 h-16 border-2 border-bg1 rounded-full"
               src="https://i.ibb.co/6XDktqf/people-1.png"
@@ -48,7 +48,7 @@ const Testimonial = () => {
             layout. The point of using Lorem a more-or-less normal distribu to
             using Content here, content
           </p>
-          <div className="flex gap-5 items-center mt-2 py-4 ">
+          <div className="flex gap-5 items-center mt-5 py-4 ">
             <img
               className="w-16 h-16 border-2 border-bg1 rounded-full"
               src="https://i.ibb.co/6XDktqf/people-1.png"
